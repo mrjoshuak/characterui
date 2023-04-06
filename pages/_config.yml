@@ -1,0 +1,7 @@
+title: "Character Based UI"
+description: "An AI personality UI project"
+baseurl: "/characterui"
+url: "https://mrjoshuak.github.io"
+github_username: mrjoshuak
+github_repo: "https://github.com/mrjoshuak/characterui"
+permalink: /:categories/:year/:month/:day/:title
